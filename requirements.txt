@@ -1,0 +1,7 @@
+llama_index
+requests
+beautifulsoup4
+playwright
+mcp
+json
+asyncio
